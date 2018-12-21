@@ -1,5 +1,5 @@
-#from unittest.mock import MagicMock, patch
-from mock import MagicMock, patch
+from unittest.mock import MagicMock, patch
+#from mock import MagicMock, patch
 
 import numpy as np
 import torch
